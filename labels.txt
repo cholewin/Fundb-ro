@@ -1,0 +1,3 @@
+0 Flasche
+1 Schere
+2 Stift
