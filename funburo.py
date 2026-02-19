@@ -9,7 +9,7 @@ from datetime import datetime
 # ---------------------------
 # CONFIG
 # ---------------------------
-MODEL_PATH = "keras_Model.h5"
+MODEL_PATH = "keras_model.h5"
 LABELS_PATH = "labels.txt"
 UPLOAD_FOLDER = "uploads"
 DB_FILE = "fundbuero.json"
